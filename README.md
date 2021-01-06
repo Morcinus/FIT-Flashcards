@@ -14,6 +14,13 @@ Easy as that. :beers:
 
 Jednotlivé kartičky jsou otagovány podle jednotlivých kapitol v předmětu. Někde můžete najít i tag _core_, který označuje ty základní karty, co by člověk ke každé zkoušce měl na 100% znát.
 
+## :page_with_curl:Momentální stav balíčků
+
+- BI-ZMA: :star::star::star::star::star: dokončený 
+- BI-MLO: :star::star::star::star: ve vývoji :grin: 
+- BI-PS1: :star::star: nedokončený, nebudu dodělávat 
+
+
 ## :raising_hand:Chyby
 
 Kdybyste našli nějakou chybu nebo něco, tak mi to prosím napište :)
