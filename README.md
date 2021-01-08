@@ -5,7 +5,7 @@ Hromada [Anki](https://apps.ankiweb.net/) decků na různé předměty z FITu.
 ## :point_right:Jak decky použít
 
 1) Musíte mít stáhlou nějakou verzi [Anki](https://apps.ankiweb.net/) nebo [AnkiDroidu](https://play.google.com/store/apps/details?id=com.ichi2.anki&hl=cs&gl=US).
-2) Stáhněte si balíček, který se chcete učit.
+2) Stáhněte si balíčky, které se chcete učit.
 3) Naimportujte balíčky do Anki.
 
 Easy as that. :beers:
