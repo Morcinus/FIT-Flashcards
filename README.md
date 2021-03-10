@@ -29,6 +29,6 @@ Jednotlivé kartičky jsou otagovány podle jednotlivých kapitol v předmětu. 
 
 ## :raising_hand:Chyby
 
-Kdybyste našli nějakou chybu nebo něco, tak mi to prosím napište :)
+Kdybyste našli nějakou chybu nebo něco, tak prosím vytvořte issue :)
 
 Enjoy a good luck při učení :punch:
