@@ -14,18 +14,21 @@ Easy as that. :beers:
 
 Jednotlivé kartičky jsou otagovány podle jednotlivých kapitol v předmětu. Někde můžete najít i tag _core_, který označuje ty základní karty, co by člověk ke každé zkoušce měl na 100% znát.
 
+## :wrench:Verze balíčků
+Typicky se při commitu přidává verze balíčku 1.x, kde x je týden semestru, ve kterém byl balíček přidán. U dalších commitů už se to neřeší :)
+
 ## :page_with_curl:Momentální stav balíčků
+
+### 2. semestr
+- BI-DBS: :star::star::star: vytváří se
+- BI-PA2: :star::star::star: vytváří se
+- BI-LIN: :star::star::star: vytváří se
+- BI-CS1: :star::star::star::star: vytváří se
 
 ### 1. semestr
 - BI-ZMA: :star::star::star::star::star: dokončený 
 - BI-MLO: :star::star::star::star::star: dokončený
 - BI-PS1: :star::star: nedokončený, nebudu dodělávat 
-
-### 2. semestr
-- BI-DBS: :star::star::star: vytváří se
-- BI-PA2: :star::star: vytváří se
-- BI-LIN: :star::star: vytváří se
-- BI-CS1: :star::star::star: vytváří se
 
 ## :raising_hand:Chyby
 
