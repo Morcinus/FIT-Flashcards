@@ -15,7 +15,7 @@ Easy as that. :beers:
 Jednotlivé kartičky jsou otagovány podle jednotlivých kapitol v předmětu. Někde můžete najít i tag _core_, který označuje ty základní karty, co by člověk ke každé zkoušce měl na 100% znát.
 
 ## :wrench:Verze balíčků
-Při vývoji balíčku se v commitu přidává na začátek verze balíčku 0.x, kde x je týden semestru, ve kterém byl commit přidán. U dalších commitů, po dokončení balíčku, už se to neřeší :)
+Při vývoji balíčku se v commitu přidává na začátek verze balíčku 1.x, kde x je týden semestru, ve kterém byl commit přidán. U dalších commitů, po dokončení balíčku, už se to neřeší :)
 
 ## :page_with_curl:Momentální stav balíčků
 
