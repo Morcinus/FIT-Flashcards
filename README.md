@@ -24,7 +24,7 @@ Při vývoji balíčku se v commitu přidává na začátek verze balíčku 1.x,
 - BI-LIN-zkouska: :star::star::star::star::star: dokončený
 - BI-LIN: :star::star::star::star::star: dokončený
 - BI-CS1: :star::star::star::star::star: dokončený
-- BI-GIT: :star::star::star::star::star: dokončený
+- BI-GIT: :star::star::star::star: dokončený, chtělo by to trochu polishnout
 - BI-DBS: :star::star::star: dokončený, chtělo by to ale trochu polishnout
 - BI-PA2: :star::star::star: vytváří se
 
