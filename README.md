@@ -20,10 +20,13 @@ Při vývoji balíčku se v commitu přidává na začátek verze balíčku 1.x,
 ## :page_with_curl:Momentální stav balíčků
 
 ### 2. semestr
-- BI-DBS: :star::star::star: vytváří se
+
+- BI-LIN-zkouska: :star::star::star::star::star: dokončený
+- BI-LIN: :star::star::star::star::star: dokončený
+- BI-CS1: :star::star::star::star::star: dokončený
+- BI-GIT: :star::star::star::star: dokončený, chtělo by to trochu polishnout
+- BI-DBS: :star::star::star: dokončený, chtělo by to ale trochu polishnout
 - BI-PA2: :star::star::star: vytváří se
-- BI-LIN: :star::star::star: vytváří se
-- BI-CS1: :star::star::star::star: vytváří se
 
 ### 1. semestr
 - BI-ZMA: :star::star::star::star::star: dokončený 
